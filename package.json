@@ -1,0 +1,12 @@
+{
+  "name": "my-ts-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Janice1114/my-ts-demo.git",
+  "author": "janice",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
